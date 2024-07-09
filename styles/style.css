@@ -135,3 +135,275 @@ nav button{
 }
 
 /* banner section ended here */
+
+/* why web development started here */
+
+.why-dev-container{
+
+    width: 1140px;
+    height: 1395px;
+    margin: 0 auto;
+    margin-top: 74px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02); 
+
+}
+
+.why-dev-content{
+
+    width: 946px;
+    height: 1235px;
+
+}
+
+.title-subtitle{
+
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+
+}
+
+.title-subtitle h1{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+
+}
+
+.title-subtitle p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+/* box-1 styles started here */
+
+.section-one-container{
+
+    width: 946px;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-one-content{
+
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    
+
+
+}
+
+.section-one-text{
+
+    width: 477px;
+    height: 220px;
+
+}
+
+.section-one-text h1{
+
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+}
+
+.section-one-text p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 26px;
+
+}
+
+.section-one-text button{
+
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    background: none;
+
+}
+
+.section-one-img{
+
+    width: 274.17px;
+    height: 240px;
+    margin-left: auto;
+
+}
+
+/* box-1 styles ended here */
+
+/* box-2 styles started here */
+
+.section-two-container{
+
+    width: 946px;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-two-content{
+
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+
+}
+
+.section-two-img{
+
+    width: 274.17px;
+    height: 240px;
+    margin-right: auto;
+
+}
+
+.section-two-text{
+
+    width: 477px;
+    height: 220px;
+
+}
+
+.section-two-text h1{
+
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+}
+
+.section-two-text p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 26px;
+
+}
+
+.section-two-text button{
+
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    background: none;
+
+}
+
+/* box-2 styles ended here */
+
+/* box-3 styles started here */
+
+.section-three-container{
+
+    width: 946px;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-three-content{
+
+    width: 850px;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.section-three-text{
+
+    width: 477px;
+    height: 220px;
+
+}
+
+.section-three-img{
+
+    width: 274.17px;
+    height: 240px;
+    margin-left: auto;
+
+}
+
+.section-three-text h1{
+
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+}
+
+.section-three-text p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 26px;
+
+}
+
+.section-three-text button{
+
+    padding: 12px 20px 12px 20px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    background: none;
+
+}
+
+/* box-3 styles ended here */
+
+/* why web development ended here */
+

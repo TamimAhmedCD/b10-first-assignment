@@ -149,6 +149,7 @@ nav button{
     align-items: center;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02); 
+    margin-bottom: 88px;
 
 }
 
@@ -406,4 +407,72 @@ nav button{
 /* box-3 styles ended here */
 
 /* why web development ended here */
+
+/* inspiration styles section started here */
+
+.inspiration-container{
+
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto;
+
+}
+
+.my-inspiration-text{
+
+    width: 852px;
+    height: 115px;
+    border: 2px solid red;
+    margin: 0 auto;
+}
+.my-inspiration-text h1{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+
+}
+
+.my-inspiration-text p{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+.video-container{
+
+    width: 1140px;
+    height: 614px;
+    margin: 0 auto;
+    margin-top: 48px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.video-frame{
+
+    width: 1076px;
+    height: 550px;
+
+}
+
+.video-frame iframe{
+
+    border-radius: 16px;
+
+}
+
+
+/* inspiration styles section ended here */
 

@@ -760,7 +760,120 @@ nav button{
 
 }
 
-
 /* my next target section ended here */
+
+/* i need support section styles started here */
+
+.need-support-container{
+
+    width: 1140px;
+    height: 314px;
+    background: rgba(0, 0, 0, 0.2);
+    background-blend-mode: overlay;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    margin-top: 41px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.need-support-content{
+
+    width: 1044px;
+    height: 186px;
+
+}
+
+.need-support-content h1{
+
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 16px;
+
+}
+
+.need-support-content p{
+
+    color: rgb(255, 255, 255);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.submit{
+
+    width: 684px;
+    height: 58px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 40px;
+
+}
+
+.input{
+
+    width: 548px;
+    height: 57px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+}
+
+.field{
+
+    margin-left: 20px;
+
+}
+
+.field input{
+
+    width: 313px;
+    height: 19px;
+    border: none;
+
+}
+
+.button{
+
+    width: 120px;
+    height: 58px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16px;
+
+}
+
+.button button{
+
+    width: 80px;
+    height: 24px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+
+}
+
+/* i need support section styles ended here */
+
 
 

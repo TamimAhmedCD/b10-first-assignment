@@ -649,3 +649,118 @@ nav button{
 
 /* my target section styles ended here */
 
+/* my next target section started here */
+
+.next-target-container{
+
+    width: 1140px;
+    height: 871px;
+    margin: 0 auto;
+    margin-top: 111px;
+
+}
+
+.next-target-title{
+
+    width: 946px;
+    height: 115px;
+    margin: 0 auto;
+
+}
+
+.next-target-title h1{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+
+}
+
+.next-target-title p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.next-target-box{
+
+    width: 1140px;
+    height: 220px;
+    margin: 0 auto;
+    margin-top: 24px;
+    border: 2px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.next-content{
+
+    width: 1060px;
+    height: 140px;
+    display: flex;
+
+}
+
+.content-img{
+
+    width: 150px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.next-text{
+
+    width: 885px;
+    height: 140px;
+    margin-left: auto;
+
+}
+
+.next-text h1{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    margin-bottom: 8px;
+
+}
+
+.next-text p{
+
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 24px;
+
+}
+
+.next-text a{
+
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+
+}
+
+
+/* my next target section ended here */
+
+
